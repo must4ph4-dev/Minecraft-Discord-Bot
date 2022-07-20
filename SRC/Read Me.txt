@@ -1,0 +1,1 @@
+config.json u ve server.js yi kendinize göre düzenleyin ve baslat.bat ý çalýþtýrýn
